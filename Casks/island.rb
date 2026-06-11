@@ -7,7 +7,7 @@ cask "island" do
   desc "Frictionless journal client for a Memos server"
   homepage "https://github.com/hoemoon/homebrew-island"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "island.app"
 end
