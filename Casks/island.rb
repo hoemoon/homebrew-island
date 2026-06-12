@@ -1,6 +1,6 @@
 cask "island" do
-  version "0.4.4"
-  sha256 "a0ea49b63b79c8a306b05a5dacca3c0fce9d68be34d707c09c5339991e2a9bd8"
+  version "0.4.5"
+  sha256 "fee31c6895aad86019dbd13208586ed582dba48af036bd0e666f9210d7b6c762"
 
   url "https://github.com/hoemoon/homebrew-island/releases/download/v#{version}/island.zip"
   name "island"
